@@ -1,0 +1,1 @@
+flux bootstrap github   --owner=Rustyt23   --repository=plex-infra   --branch=main   --path=./clusters/bootstrap --personal
